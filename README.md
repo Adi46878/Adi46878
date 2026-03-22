@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mental Health Chat Analyzer (Final Year Project) <br>Data Science / Machine Learning projects, especially real-world datasets<br>Improving model performance & deploying ML models (Flask/Streamlit)<br>Advanced ML, Feature Engineering, and Model Deployment<br>Python, SQL, Machine Learning basics, Data Analysis<br>I can spend hours debugging… and the issue turns out to be a missing comma 😅
+Mental Health Chat Analyzer (Final Year Project) <br>Data Science / Machine Learning projects, especially real-world datasets<br>Improving model performance & deploying ML models <br>Advanced ML, Feature Engineering, and Model Deployment<br>Python, SQL, Machine Learning basics, Data Analysis<br>I can spend hours debugging… and the issue turns out to be a missing comma 😅
 
 
 ## 🌐 Socials:
