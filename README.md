@@ -1,5 +1,5 @@
 # About Me:
-Data Science / Machine Learning projects, especially real-world datasets<br>Improving model performance & deploying ML models <br>Advanced ML, Feature Engineering, and Model Deployment<br>Python, SQL, Machine Learning , Data Analysis
+Data Science / Machine Learning projects, especially real-world datasets<br>Improving model performance & deploying ML models <br>Advanced ML, Feature Engineering, and Model Deployment<br>Python, SQL, Machine Learning , Data Analytics
 
 
 ## 🌐 Socials:
