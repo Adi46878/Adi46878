@@ -1,5 +1,5 @@
 # About Me:
-Data Science / Machine Learning projects, especially real-world datasets<br>Improving model performance & deploying ML models <br>Advanced ML, Feature Engineering, and Model Deployment<br>Python, SQL, Machine Learning , Data Analysis
+Data Science / Machine Learning projects, especially real-world datasets<br>Improving model performance & deploying ML models <br>Advanced ML, Feature Engineering, and Model Deployment<br>Python, SQL, Machine Learning , Data Analytics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-1aa846310/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.30069@gmail.com) 
